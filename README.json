@@ -1,0 +1,445 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "urql",
+          "description": "Universal React Query Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:05:36Z",
+            "owner": "urql-graphql",
+            "repo": "urql",
+            "stars": 8967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppSync",
+          "description": "JavaScript GraphQL library for Offline, Sync, Sigv4. includes support for React Native",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T22:38:53Z",
+            "owner": "awslabs",
+            "repo": "aws-mobile-appsync-sdk-js",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Relay Modern",
+          "description": "A JavaScript framework for building data-driven React applications",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-13T19:42:31Z",
+                "owner": "facebook",
+                "repo": "relay",
+                "stars": 18956
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Code generators:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "graphql-code-generator",
+              "description": "GraphQL code generator with flexible support for custom templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T12:34:58Z",
+                "owner": "dotansimha",
+                "repo": "graphql-code-generator",
+                "stars": 11267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apollo-codegen",
+              "description": "Generate API code or type annotations based on a GraphQL schema and query documents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T13:42:49Z",
+                "owner": "apollographql",
+                "repo": "apollo-tooling",
+                "stars": 3043
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Linters:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-graphql",
+              "description": "Check your GraphQL query strings against a schema",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T04:08:14Z",
+                "owner": "apollographql",
+                "repo": "eslint-plugin-graphql",
+                "stars": 1215
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GraphQL Workflows:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GraphQL Playground",
+              "description": "Powerful GraphQL IDE built on top of GraphiQL",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2026-05-04T09:38:44Z",
+                "owner": "graphql",
+                "repo": "graphql-playground",
+                "stars": 8831
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Apollo Client Tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Apollo Cache Updater",
+              "description": "Helper for updating the apollo cache after a mutation in scenarios where apollo's in-place update may not be sufficient.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-10T02:02:06Z",
+                "owner": "ecerroni",
+                "repo": "apollo-cache-updater",
+                "stars": 159
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ReactJS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Next.js With Apollo",
+              "description": "Boilerplate for building Next.js apps with Apollo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T05:15:42Z",
+                "owner": "vercel",
+                "repo": "next.js",
+                "stars": 141779
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Next.js Serverless with Apollo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T13:28:07Z",
+                "owner": "hasura",
+                "repo": "graphql-engine",
+                "stars": 32082
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Extensive React + Apollo + GraphQL GitHub Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-12T08:41:45Z",
+                "owner": "the-road-to-graphql",
+                "repo": "react-graphql-github-apollo",
+                "stars": 1592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React AppSync Starter App",
+              "description": "Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2020-05-08T00:44:18Z",
+                "owner": "amazon-archives",
+                "repo": "aws-mobile-appsync-events-starter-react",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Relay Skeleton",
+              "description": "Relay project skeleton.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-02-22T05:40:15Z",
+                "owner": "fortruce",
+                "repo": "relay-skeleton",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Universal React Apollo",
+              "description": "Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuff.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-02-19T17:12:58Z",
+                "owner": "WeLikeGraphQL",
+                "repo": "universal-react-apollo-example",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React + GraphQL GitHub Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-12T08:41:12Z",
+                "owner": "the-road-to-graphql",
+                "repo": "react-graphql-github-vanilla",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apollo-Link-State in React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-12T08:41:55Z",
+                "owner": "the-road-to-graphql",
+                "repo": "react-apollo-link-state-example",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mocking a Apollo Client in React for Testing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-12T08:43:47Z",
+                "owner": "the-road-to-graphql",
+                "repo": "react-apollo-client-mocking-example",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Testing Apollo Client in React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-12T08:43:57Z",
+                "owner": "the-road-to-graphql",
+                "repo": "react-apollo-client-testing-example",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A simple React GraphQL Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-12T08:41:32Z",
+                "owner": "the-road-to-graphql",
+                "repo": "react-graphql-client-library",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "ReactQL",
+              "description": "Universal React+GraphQL starter kit",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Github",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "TypeScript",
+                    "last_commit": "2024-10-31T13:06:55Z",
+                    "owner": "leebenson",
+                    "repo": "reactql",
+                    "stars": 1810
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "item",
+              "title": "UniversalRelayBoilerplate",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "GitHunt React",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "React Native",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React, Apollo & GraphQL Starter Kits",
+              "description": "Fullstack boilerplate project with a database and best practices for authentication, filtering, pagination and",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T01:35:28Z",
+                "owner": "graphql-boilerplates",
+                "repo": "react-fullstack-graphql",
+                "stars": 1431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WhatsApp Clone",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-08-26T21:41:04Z",
+                "owner": "srtucker22",
+                "repo": "chatty",
+                "stars": 496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL starter application with Realtime and Offline functionality using AWS AppSync",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2020-03-12T23:21:08Z",
+                "owner": "amazon-archives",
+                "repo": "aws-mobile-appsync-events-starter-react-native",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pokedex-react-native",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-06-06T09:42:34Z",
+                "owner": "learnapollo",
+                "repo": "pokedex-react-native",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frontpage-react-native-app",
+              "description": "Apollo \"hello world\" app, for React Native",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Boilerplates and Example Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles and Videos"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:22:10.705Z",
+    "original_repository": "hasura/awesome-react-graphql",
+    "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
+    "enhanced_repository": "enhansome/enhansome-react-graphql",
+    "enhanced_repository_description": null,
+    "title": "Awesome React GraphQL with stars"
+  }
+}
