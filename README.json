@@ -44,7 +44,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-13T19:42:31Z",
+                "last_commit": "2026-08-15T00:41:23Z",
                 "owner": "facebook",
                 "repo": "relay",
                 "stars": 18956
@@ -106,7 +106,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T04:08:14Z",
+                "last_commit": "2026-08-14T20:33:36Z",
                 "owner": "apollographql",
                 "repo": "eslint-plugin-graphql",
                 "stars": 1215
@@ -130,7 +130,7 @@
                 "last_commit": "2026-05-04T09:38:44Z",
                 "owner": "graphql",
                 "repo": "graphql-playground",
-                "stars": 8831
+                "stars": 8832
               }
             }
           ]
@@ -175,10 +175,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T05:15:42Z",
+                "last_commit": "2026-08-15T03:24:45Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141779
+                "stars": 141771
               }
             },
             {
@@ -192,7 +192,7 @@
                 "last_commit": "2026-08-11T13:28:07Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32082
+                "stars": 32080
               }
             },
             {
@@ -369,7 +369,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T01:35:28Z",
+                "last_commit": "2026-08-14T11:03:57Z",
                 "owner": "graphql-boilerplates",
                 "repo": "react-fullstack-graphql",
                 "stars": 1431
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:22:10.705Z",
+    "last_updated": "2026-08-15T04:17:36.849Z",
     "original_repository": "hasura/awesome-react-graphql",
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
     "enhanced_repository": "enhansome/enhansome-react-graphql",
