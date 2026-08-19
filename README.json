@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "React and React Native clients for GraphQL",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118695306,
             "language": "TypeScript",
             "last_commit": "2026-08-12T17:05:36Z",
             "owner": "urql-graphql",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108162421,
             "language": "TypeScript",
             "last_commit": "2026-03-30T22:38:53Z",
             "owner": "awslabs",
@@ -43,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 40508605,
                 "language": "Rust",
                 "last_commit": "2026-08-19T00:11:25Z",
                 "owner": "facebook",
@@ -56,7 +59,7 @@
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": "Tools for better development (debugging, linting, validation etc)",
       "items": [
         {
           "node_type": "group",
@@ -70,6 +73,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75657790,
                 "language": "TypeScript",
                 "last_commit": "2026-08-17T14:32:14Z",
                 "owner": "dotansimha",
@@ -84,6 +88,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 65563448,
                 "language": "TypeScript",
                 "last_commit": "2026-08-10T13:42:49Z",
                 "owner": "apollographql",
@@ -105,6 +110,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 56805180,
                 "language": "JavaScript",
                 "last_commit": "2026-08-14T20:33:36Z",
                 "owner": "apollographql",
@@ -126,11 +132,12 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 80016159,
                 "language": "TypeScript",
                 "last_commit": "2026-05-04T09:38:44Z",
                 "owner": "graphql",
                 "repo": "graphql-playground",
-                "stars": 8831
+                "stars": 8832
               }
             }
           ]
@@ -147,6 +154,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159340043,
                 "language": "JavaScript",
                 "last_commit": "2022-12-10T02:02:06Z",
                 "owner": "ecerroni",
@@ -160,7 +168,7 @@
       "title": "Developer Tools"
     },
     {
-      "description": "",
+      "description": "Boilerplates and examples for a headstart in development",
       "items": [
         {
           "node_type": "group",
@@ -174,11 +182,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T02:04:36Z",
+                "last_commit": "2026-08-19T12:42:37Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141858
+                "stars": 141864
               }
             },
             {
@@ -188,6 +197,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 137724480,
                 "language": "TypeScript",
                 "last_commit": "2026-08-18T16:51:45Z",
                 "owner": "hasura",
@@ -202,6 +212,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 119005072,
                 "language": "JavaScript",
                 "last_commit": "2020-06-12T08:41:45Z",
                 "owner": "the-road-to-graphql",
@@ -216,6 +227,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 111742961,
                 "language": "JavaScript",
                 "last_commit": "2020-05-08T00:44:18Z",
                 "owner": "amazon-archives",
@@ -230,6 +242,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 40841671,
                 "language": "JavaScript",
                 "last_commit": "2016-02-22T05:40:15Z",
                 "owner": "fortruce",
@@ -244,6 +257,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 70249959,
                 "language": "JavaScript",
                 "last_commit": "2017-02-19T17:12:58Z",
                 "owner": "WeLikeGraphQL",
@@ -258,6 +272,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 118790032,
                 "language": "JavaScript",
                 "last_commit": "2020-06-12T08:41:12Z",
                 "owner": "the-road-to-graphql",
@@ -272,6 +287,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 131689295,
                 "language": "JavaScript",
                 "last_commit": "2020-06-12T08:41:55Z",
                 "owner": "the-road-to-graphql",
@@ -286,6 +302,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 134062010,
                 "language": "JavaScript",
                 "last_commit": "2020-06-12T08:43:47Z",
                 "owner": "the-road-to-graphql",
@@ -300,6 +317,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 135961037,
                 "language": "JavaScript",
                 "last_commit": "2020-06-12T08:43:57Z",
                 "owner": "the-road-to-graphql",
@@ -314,6 +332,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 133457164,
                 "language": "JavaScript",
                 "last_commit": "2020-06-12T08:41:32Z",
                 "owner": "the-road-to-graphql",
@@ -333,6 +352,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 81242375,
                     "language": "TypeScript",
                     "last_commit": "2024-10-31T13:06:55Z",
                     "owner": "leebenson",
@@ -341,18 +361,6 @@
                   }
                 }
               ]
-            },
-            {
-              "node_type": "item",
-              "title": "UniversalRelayBoilerplate",
-              "description": null,
-              "children": []
-            },
-            {
-              "node_type": "item",
-              "title": "GitHunt React",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -368,6 +376,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 58235421,
                 "language": "JavaScript",
                 "last_commit": "2026-08-14T11:03:57Z",
                 "owner": "graphql-boilerplates",
@@ -382,6 +391,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 82373208,
                 "language": "JavaScript",
                 "last_commit": "2018-08-26T21:41:04Z",
                 "owner": "srtucker22",
@@ -396,6 +406,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 108322306,
                 "language": "JavaScript",
                 "last_commit": "2020-03-12T23:21:08Z",
                 "owner": "amazon-archives",
@@ -410,33 +421,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 72982485,
                 "language": "JavaScript",
                 "last_commit": "2017-06-06T09:42:34Z",
                 "owner": "learnapollo",
                 "repo": "pokedex-react-native",
                 "stars": 40
               }
-            },
-            {
-              "node_type": "item",
-              "title": "frontpage-react-native-app",
-              "description": "Apollo \"hello world\" app, for React Native",
-              "children": []
             }
           ]
         }
       ],
       "title": "Boilerplates and Example Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles and Videos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:24:04.670Z",
+    "last_updated": "2026-08-19T12:48:24.255Z",
     "original_repository": "hasura/awesome-react-graphql",
+    "original_repository_id": 126986638,
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
     "enhanced_repository": "enhansome/enhansome-react-graphql",
     "enhanced_repository_description": null,
