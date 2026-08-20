@@ -12,7 +12,7 @@
             "archived": false,
             "id": 118695306,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:05:36Z",
+            "last_commit": "2026-08-19T19:04:58Z",
             "owner": "urql-graphql",
             "repo": "urql",
             "stars": 8967
@@ -75,7 +75,7 @@
                 "archived": false,
                 "id": 75657790,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T14:32:14Z",
+                "last_commit": "2026-08-19T14:26:51Z",
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11263
@@ -90,7 +90,7 @@
                 "archived": false,
                 "id": 65563448,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T13:42:49Z",
+                "last_commit": "2026-08-19T20:54:58Z",
                 "owner": "apollographql",
                 "repo": "apollo-tooling",
                 "stars": 3043
@@ -184,10 +184,10 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:42:37Z",
+                "last_commit": "2026-08-20T03:13:50Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141864
+                "stars": 141873
               }
             },
             {
@@ -199,10 +199,10 @@
                 "archived": false,
                 "id": 137724480,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T16:51:45Z",
+                "last_commit": "2026-08-19T16:56:27Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32095
+                "stars": 32096
               }
             },
             {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:48:24.255Z",
+    "last_updated": "2026-08-20T04:23:35.636Z",
     "original_repository": "hasura/awesome-react-graphql",
     "original_repository_id": 126986638,
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",

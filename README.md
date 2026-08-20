@@ -26,7 +26,7 @@
 
 > React and React Native clients for GraphQL
 
-* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,967 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12: Universal React Query Library
+* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,967 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-19: Universal React Query Library
 * [AppSync](https://github.com/awslabs/aws-mobile-appsync-sdk-js) ⭐ 917 | 🐛 248 | 🌐 TypeScript | 📅 2026-03-30: JavaScript GraphQL library for Offline, Sync, Sigv4. includes support for React Native
   * [Docs](https://docs.aws.amazon.com/appsync/latest/devguide/welcome.html)
 * [Apollo](https://www.apollographql.com/): Apollo Client is a community-driven GraphQL client for React, JavaScript, and native platforms
@@ -44,8 +44,8 @@
 > Tools for better development (debugging, linting, validation etc)
 
 * Code generators:
-  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,263 | 🐛 555 | 🌐 TypeScript | 📅 2026-08-17: GraphQL code generator with flexible support for custom templates
-  * [apollo-codegen](https://github.com/apollographql/apollo-codegen) ⭐ 3,043 | 🐛 364 | 🌐 TypeScript | 📅 2026-08-10: Generate API code or type annotations based on a GraphQL schema and query documents
+  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,263 | 🐛 556 | 🌐 TypeScript | 📅 2026-08-19: GraphQL code generator with flexible support for custom templates
+  * [apollo-codegen](https://github.com/apollographql/apollo-codegen) ⭐ 3,043 | 🐛 364 | 🌐 TypeScript | 📅 2026-08-19: Generate API code or type annotations based on a GraphQL schema and query documents
 * Linters:
   * [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) ⭐ 1,215 | 🐛 100 | 🌐 JavaScript | 📅 2026-08-14: Check your GraphQL query strings against a schema
 * ReactJS Debugging Tools
@@ -91,8 +91,8 @@
 > Boilerplates and examples for a headstart in development
 
 * ReactJS
-  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 141,864 | 🐛 4,086 | 🌐 JavaScript | 📅 2026-08-19 - Boilerplate for building Next.js apps with Apollo.
-  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,095 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-08-18
+  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 141,873 | 🐛 4,052 | 🌐 JavaScript | 📅 2026-08-20 - Boilerplate for building Next.js apps with Apollo.
+  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,096 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-08-19
   * [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,592 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
   * [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react) ⚠️ Archived
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
