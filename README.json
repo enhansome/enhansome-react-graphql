@@ -12,7 +12,7 @@
             "archived": false,
             "id": 118695306,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:08:07Z",
+            "last_commit": "2026-08-22T16:07:52Z",
             "owner": "urql-graphql",
             "repo": "urql",
             "stars": 8966
@@ -75,7 +75,7 @@
                 "archived": false,
                 "id": 75657790,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T14:26:51Z",
+                "last_commit": "2026-08-22T07:36:35Z",
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11263
@@ -184,10 +184,10 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T03:40:34Z",
+                "last_commit": "2026-08-23T00:10:25Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141880
+                "stars": 141888
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2026-08-19T16:56:27Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32099
+                "stars": 32100
               }
             },
             {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:19:37.981Z",
+    "last_updated": "2026-08-23T04:25:05.812Z",
     "original_repository": "hasura/awesome-react-graphql",
     "original_repository_id": 126986638,
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
