@@ -47,10 +47,10 @@
                 "archived": false,
                 "id": 40508605,
                 "language": "Rust",
-                "last_commit": "2026-08-21T21:27:51Z",
+                "last_commit": "2026-08-24T08:29:02Z",
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18956
+                "stars": 18955
               }
             }
           ]
@@ -184,10 +184,10 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T01:26:48Z",
+                "last_commit": "2026-08-24T14:18:58Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141904
+                "stars": 141914
               }
             },
             {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:33:07.134Z",
+    "last_updated": "2026-08-24T14:22:00.913Z",
     "original_repository": "hasura/awesome-react-graphql",
     "original_repository_id": 126986638,
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",

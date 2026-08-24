@@ -35,7 +35,7 @@
   * [Spectrum](https://spectrum.chat/apollo)
   * [Slack](https://www.apollographql.com/slack)
 * [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
-  * [Github](https://github.com/facebook/relay) ⭐ 18,956 | 🐛 871 | 🌐 Rust | 📅 2026-08-21
+  * [Github](https://github.com/facebook/relay) ⭐ 18,955 | 🐛 871 | 🌐 Rust | 📅 2026-08-24
   * [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
   * [Discord](https://discord.gg/0ZcbPKXt5bX40xsQ)
 
@@ -91,8 +91,8 @@
 > Boilerplates and examples for a headstart in development
 
 * ReactJS
-  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 141,904 | 🐛 3,924 | 🌐 JavaScript | 📅 2026-08-24 - Boilerplate for building Next.js apps with Apollo.
-  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,101 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-08-19
+  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 141,914 | 🐛 3,924 | 🌐 JavaScript | 📅 2026-08-24 - Boilerplate for building Next.js apps with Apollo.
+  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,101 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19
   * [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,592 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
   * [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react) ⚠️ Archived
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
