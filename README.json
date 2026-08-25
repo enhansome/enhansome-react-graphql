@@ -47,7 +47,7 @@
                 "archived": false,
                 "id": 40508605,
                 "language": "Rust",
-                "last_commit": "2026-08-24T08:29:02Z",
+                "last_commit": "2026-08-24T22:28:16Z",
                 "owner": "facebook",
                 "repo": "relay",
                 "stars": 18955
@@ -78,7 +78,7 @@
                 "last_commit": "2026-08-23T14:28:36Z",
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
-                "stars": 11263
+                "stars": 11264
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-05-04T09:38:44Z",
                 "owner": "graphql",
                 "repo": "graphql-playground",
-                "stars": 8830
+                "stars": 8829
               }
             }
           ]
@@ -184,10 +184,10 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:18:58Z",
+                "last_commit": "2026-08-25T03:27:15Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141914
+                "stars": 141922
               }
             },
             {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:00.913Z",
+    "last_updated": "2026-08-25T04:26:11.216Z",
     "original_repository": "hasura/awesome-react-graphql",
     "original_repository_id": 126986638,
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
