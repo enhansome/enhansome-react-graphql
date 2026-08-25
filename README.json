@@ -40,7 +40,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "facebook/relay",
               "description": null,
               "children": [],
               "repo_info": {
@@ -187,7 +187,7 @@
                 "last_commit": "2026-08-25T03:27:15Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141922
+                "stars": 141925
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2026-08-19T16:56:27Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32101
+                "stars": 32100
               }
             },
             {
@@ -347,7 +347,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Github",
+                  "title": "leebenson/reactql",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:26:11.216Z",
+    "last_updated": "2026-08-25T06:10:47.138Z",
     "original_repository": "hasura/awesome-react-graphql",
     "original_repository_id": 126986638,
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
