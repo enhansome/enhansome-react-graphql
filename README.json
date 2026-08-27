@@ -47,10 +47,10 @@
                 "archived": false,
                 "id": 40508605,
                 "language": "Rust",
-                "last_commit": "2026-08-26T02:31:46Z",
+                "last_commit": "2026-08-27T06:03:32Z",
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18956
+                "stars": 18958
               }
             }
           ]
@@ -78,7 +78,7 @@
                 "last_commit": "2026-08-23T14:28:36Z",
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
-                "stars": 11265
+                "stars": 11264
               }
             },
             {
@@ -112,7 +112,7 @@
                 "archived": false,
                 "id": 56805180,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T12:55:01Z",
+                "last_commit": "2026-08-26T11:00:03Z",
                 "owner": "apollographql",
                 "repo": "eslint-plugin-graphql",
                 "stars": 1215
@@ -184,10 +184,10 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T04:16:28Z",
+                "last_commit": "2026-08-27T11:00:21Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141931
+                "stars": 141957
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2026-08-19T16:56:27Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32100
+                "stars": 32099
               }
             },
             {
@@ -378,7 +378,7 @@
                 "archived": false,
                 "id": 58235421,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T14:12:26Z",
+                "last_commit": "2026-08-26T19:59:52Z",
                 "owner": "graphql-boilerplates",
                 "repo": "react-fullstack-graphql",
                 "stars": 1431
@@ -436,9 +436,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:28:01.821Z",
-    "original_repository": "hasura/awesome-react-graphql",
-    "original_repository_id": 126986638,
+    "last_updated": "2026-08-27T11:59:32.807Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 126986638,
+      "language": null,
+      "last_commit": "2020-12-22T18:35:38Z",
+      "owner": "hasura",
+      "repo": "awesome-react-graphql",
+      "stars": 748
+    },
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
     "enhanced_repository": "enhansome/enhansome-react-graphql",
     "enhanced_repository_description": null,
