@@ -16,7 +16,8 @@
             "owner": "urql-graphql",
             "repo": "urql",
             "stars": 8967
-          }
+          },
+          "first_seen": "2026-08-28T15:43:41.215Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "awslabs",
             "repo": "aws-mobile-appsync-sdk-js",
             "stars": 917
-          }
+          },
+          "first_seen": "2026-08-28T15:43:41.215Z"
         },
         {
           "node_type": "group",
@@ -47,11 +49,12 @@
                 "archived": false,
                 "id": 40508605,
                 "language": "Rust",
-                "last_commit": "2026-08-27T06:03:32Z",
+                "last_commit": "2026-08-28T04:04:09Z",
                 "owner": "facebook",
                 "repo": "relay",
                 "stars": 18958
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             }
           ]
         }
@@ -79,7 +82,8 @@
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11264
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -90,11 +94,12 @@
                 "archived": false,
                 "id": 65563448,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:54:58Z",
+                "last_commit": "2026-08-28T10:06:10Z",
                 "owner": "apollographql",
                 "repo": "apollo-tooling",
                 "stars": 3042
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             }
           ]
         },
@@ -116,7 +121,8 @@
                 "owner": "apollographql",
                 "repo": "eslint-plugin-graphql",
                 "stars": 1215
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             }
           ]
         },
@@ -138,7 +144,8 @@
                 "owner": "graphql",
                 "repo": "graphql-playground",
                 "stars": 8829
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             }
           ]
         },
@@ -160,7 +167,8 @@
                 "owner": "ecerroni",
                 "repo": "apollo-cache-updater",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             }
           ]
         }
@@ -184,11 +192,12 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T14:45:47Z",
+                "last_commit": "2026-08-28T15:36:00Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141961
-              }
+                "stars": 141971
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -202,8 +211,9 @@
                 "last_commit": "2026-08-19T16:56:27Z",
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32099
-              }
+                "stars": 32103
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -218,7 +228,8 @@
                 "owner": "the-road-to-graphql",
                 "repo": "react-graphql-github-apollo",
                 "stars": 1592
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -233,7 +244,8 @@
                 "owner": "amazon-archives",
                 "repo": "aws-mobile-appsync-events-starter-react",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -248,7 +260,8 @@
                 "owner": "fortruce",
                 "repo": "relay-skeleton",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -263,7 +276,8 @@
                 "owner": "WeLikeGraphQL",
                 "repo": "universal-react-apollo-example",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -278,7 +292,8 @@
                 "owner": "the-road-to-graphql",
                 "repo": "react-graphql-github-vanilla",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -293,7 +308,8 @@
                 "owner": "the-road-to-graphql",
                 "repo": "react-apollo-link-state-example",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -308,7 +324,8 @@
                 "owner": "the-road-to-graphql",
                 "repo": "react-apollo-client-mocking-example",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -323,7 +340,8 @@
                 "owner": "the-road-to-graphql",
                 "repo": "react-apollo-client-testing-example",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -338,7 +356,8 @@
                 "owner": "the-road-to-graphql",
                 "repo": "react-graphql-client-library",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "group",
@@ -358,7 +377,8 @@
                     "owner": "leebenson",
                     "repo": "reactql",
                     "stars": 1810
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:43:41.215Z"
                 }
               ]
             }
@@ -381,8 +401,9 @@
                 "last_commit": "2026-08-26T19:59:52Z",
                 "owner": "graphql-boilerplates",
                 "repo": "react-fullstack-graphql",
-                "stars": 1431
-              }
+                "stars": 1432
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -397,7 +418,8 @@
                 "owner": "srtucker22",
                 "repo": "chatty",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -412,7 +434,8 @@
                 "owner": "amazon-archives",
                 "repo": "aws-mobile-appsync-events-starter-react-native",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             },
             {
               "node_type": "item",
@@ -427,7 +450,8 @@
                 "owner": "learnapollo",
                 "repo": "pokedex-react-native",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T15:43:41.215Z"
             }
           ]
         }
@@ -436,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:49:32.353Z",
+    "last_updated": "2026-08-28T15:43:41.215Z",
     "original_repository_info": {
       "archived": false,
       "id": 126986638,
