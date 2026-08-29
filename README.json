@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.",
+            "homepage": "https://urql.dev",
             "id": 118695306,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T16:07:52Z",
+            "open_issues": 30,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8967
+            "stars": 8967,
+            "topics": [
+              "complex-apps",
+              "exchange",
+              "graphql",
+              "graphql-client",
+              "graphql-clients"
+            ]
           },
           "first_seen": "2026-08-28T15:43:41.215Z"
         },
@@ -26,12 +37,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript library files for Offline, Sync, Sigv4. includes support for React Native",
+            "homepage": null,
             "id": 108162421,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T22:38:53Z",
+            "open_issues": 248,
             "owner": "awslabs",
             "repo": "aws-mobile-appsync-sdk-js",
-            "stars": 917
+            "stars": 917,
+            "topics": [
+              "appsync",
+              "aws",
+              "aws-appsync",
+              "aws-mobile",
+              "graphql",
+              "graphql-client",
+              "graphql-js",
+              "graphql-subscriptions",
+              "javascript",
+              "js",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T15:43:41.215Z"
         },
@@ -47,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relay is a JavaScript framework for building data-driven React applications.",
+                "homepage": "https://relay.dev",
                 "id": 40508605,
                 "language": "Rust",
-                "last_commit": "2026-08-28T04:04:09Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:48:23Z",
+                "open_issues": 857,
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18958
+                "stars": 18958,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             }
@@ -76,12 +109,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins. ",
+                "homepage": "https://the-guild.dev/graphql/codegen/",
                 "id": 75657790,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T14:28:36Z",
+                "open_issues": 554,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
-                "stars": 11264
+                "stars": 11264,
+                "topics": [
+                  "android",
+                  "angular",
+                  "code-generator",
+                  "codegen",
+                  "csharp",
+                  "graphql",
+                  "graphql-schema",
+                  "java",
+                  "react",
+                  "resolvers",
+                  "schema",
+                  "the-guild",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -92,12 +144,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✏️ Apollo CLI for client tooling (Mostly replaced by Rover)",
+                "homepage": "https://apollographql.com",
                 "id": 65563448,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:06:10Z",
+                "open_issues": 364,
                 "owner": "apollographql",
                 "repo": "apollo-tooling",
-                "stars": 3042
+                "stars": 3042,
+                "topics": [
+                  "code-generation",
+                  "flow",
+                  "graphql",
+                  "swift",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             }
@@ -115,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":vertical_traffic_light: Check your GraphQL query strings against a schema.",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-graphql",
                 "id": 56805180,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-26T11:00:03Z",
+                "open_issues": 100,
                 "owner": "apollographql",
                 "repo": "eslint-plugin-graphql",
-                "stars": 1215
+                "stars": 1215,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             }
@@ -138,12 +206,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)",
+                "homepage": null,
                 "id": 80016159,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-04T09:38:44Z",
+                "open_issues": 402,
                 "owner": "graphql",
                 "repo": "graphql-playground",
-                "stars": 8829
+                "stars": 8829,
+                "topics": [
+                  "graphiql",
+                  "graphql",
+                  "graphql-playground",
+                  "ide",
+                  "prisma"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             }
@@ -161,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helper for updating the apollo cache after a mutation",
+                "homepage": null,
                 "id": 159340043,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-10T02:02:06Z",
+                "open_issues": 27,
                 "owner": "ecerroni",
                 "repo": "apollo-cache-updater",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             }
@@ -190,12 +274,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The React Framework",
+                "homepage": "https://nextjs.org",
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T15:36:00Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:19:20Z",
+                "open_issues": 3638,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141971
+                "stars": 141980,
+                "topics": [
+                  "blog",
+                  "browser",
+                  "compiler",
+                  "components",
+                  "hybrid",
+                  "nextjs",
+                  "node",
+                  "react",
+                  "server-rendering",
+                  "ssg",
+                  "static",
+                  "static-site-generator",
+                  "universal",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -206,12 +310,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
+                "homepage": "https://hasura.io",
                 "id": 137724480,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T16:56:27Z",
+                "open_issues": 2374,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32103
+                "stars": 32104,
+                "topics": [
+                  "access-control",
+                  "api",
+                  "automatic-api",
+                  "bigquery",
+                  "graphql",
+                  "graphql-api",
+                  "graphql-server",
+                  "haskell",
+                  "hasura",
+                  "mongodb",
+                  "postgres",
+                  "rest-api",
+                  "sql-server",
+                  "subgraph",
+                  "supergraph"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -222,12 +347,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.",
+                "homepage": "https://www.robinwieruch.de/react-with-graphql-tutorial",
                 "id": 119005072,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-12T08:41:45Z",
+                "open_issues": 11,
                 "owner": "the-road-to-graphql",
                 "repo": "react-graphql-github-apollo",
-                "stars": 1592
+                "stars": 1592,
+                "topics": [
+                  "apollo",
+                  "apollo-client",
+                  "apollographql",
+                  "github",
+                  "github-api",
+                  "github-client",
+                  "github-graphql",
+                  "graphql",
+                  "react",
+                  "react-apollo",
+                  "react-router-v4"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -238,12 +380,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GraphQL starter application with Realtime and Offline functionality using AWS AppSync",
+                "homepage": "https://aws.amazon.com/appsync/",
                 "id": 111742961,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-05-08T00:44:18Z",
+                "open_issues": 14,
                 "owner": "amazon-archives",
                 "repo": "aws-mobile-appsync-events-starter-react",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "appsync",
+                  "aws",
+                  "graphql",
+                  "javascript",
+                  "offline",
+                  "react",
+                  "real-time",
+                  "realtime",
+                  "syncronization"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -254,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React, Relay, GraphQL project skeleton",
+                "homepage": null,
                 "id": 40841671,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-02-22T05:40:15Z",
+                "open_issues": 2,
                 "owner": "fortruce",
                 "repo": "relay-skeleton",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -270,12 +432,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal React Apollo App (GraphQL) consuming: https://github.com/WeLikeGraphQL/wordpress-graphql-api-example!",
+                "homepage": null,
                 "id": 70249959,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-02-19T17:12:58Z",
+                "open_issues": 1,
                 "owner": "WeLikeGraphQL",
                 "repo": "universal-react-apollo-example",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "apollo",
+                  "graphql",
+                  "react",
+                  "universal",
+                  "webpack2"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -286,12 +459,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React GraphQL example using GitHub's GraphQL API with vanilla JS",
+                "homepage": "https://www.robinwieruch.de/react-with-graphql-tutorial",
                 "id": 118790032,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-12T08:41:12Z",
+                "open_issues": 5,
                 "owner": "the-road-to-graphql",
                 "repo": "react-graphql-github-vanilla",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "github-api",
+                  "github-graphql",
+                  "graphql",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -302,12 +486,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React application using Apollo Client with apollo-link-state for local state management.",
+                "homepage": "https://www.robinwieruch.de/react-apollo-link-state-tutorial",
                 "id": 131689295,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-12T08:41:55Z",
+                "open_issues": 3,
                 "owner": "the-road-to-graphql",
                 "repo": "react-apollo-link-state-example",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "apollo",
+                  "apollo-client",
+                  "apollo-link-state",
+                  "apollographql",
+                  "local-state-management",
+                  "react",
+                  "react-apollo",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -318,12 +516,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal React application using Apollo Client with a mocked GitHub's GraphQL API by implementing an own GraphQL schema.",
+                "homepage": "https://www.robinwieruch.de/graphql-server-mock-apollo-client/",
                 "id": 134062010,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-12T08:43:47Z",
+                "open_issues": 5,
                 "owner": "the-road-to-graphql",
                 "repo": "react-apollo-client-mocking-example",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "apollo",
+                  "apollo-client",
+                  "graphql-schema",
+                  "mocking",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -334,12 +544,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React with Apollo Client application with a mocked GraphQL server and tested Query and Mutation components.",
+                "homepage": "https://www.robinwieruch.de/react-apollo-client-testing",
                 "id": 135961037,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-12T08:43:57Z",
+                "open_issues": 7,
                 "owner": "the-road-to-graphql",
                 "repo": "react-apollo-client-testing-example",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "apollo",
+                  "apollo-client",
+                  "apollo-client-testing",
+                  "graphql-schema",
+                  "mocking",
+                  "react",
+                  "reactjs",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -350,12 +574,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GraphQL client for React applications. It's not powerful, but it works. It is not meant for production, but for you as inspiration to contribute to the ecosystem.",
+                "homepage": "https://www.robinwieruch.de/react-graphql-client-library",
                 "id": 133457164,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-12T08:41:32Z",
+                "open_issues": 3,
                 "owner": "the-road-to-graphql",
                 "repo": "react-graphql-client-library",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "graphql",
+                  "graphql-client",
+                  "react",
+                  "react-graphql",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -371,12 +606,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR",
+                    "homepage": "https://reactql.org",
                     "id": 81242375,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-31T13:06:55Z",
+                    "open_issues": 41,
                     "owner": "leebenson",
                     "repo": "reactql",
-                    "stars": 1810
+                    "stars": 1810,
+                    "topics": [
+                      "apollo",
+                      "apollo-client",
+                      "brotli",
+                      "emotion",
+                      "graphql",
+                      "gzip",
+                      "helmet",
+                      "hot-reload",
+                      "less",
+                      "postcss",
+                      "react",
+                      "reactjs",
+                      "sass",
+                      "server-side-rendering",
+                      "ssr",
+                      "starter-kit",
+                      "typescript",
+                      "universal",
+                      "webpack",
+                      "webpack4"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:43:41.215Z"
                 }
@@ -396,12 +657,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starter projects for fullstack applications based on React & GraphQL.",
+                "homepage": null,
                 "id": 58235421,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-26T19:59:52Z",
+                "open_issues": 52,
                 "owner": "graphql-boilerplates",
                 "repo": "react-fullstack-graphql",
-                "stars": 1432
+                "stars": 1432,
+                "topics": [
+                  "apollo",
+                  "apollographql",
+                  "graphcool",
+                  "graphql",
+                  "graphql-subscriptions",
+                  "react",
+                  "relayjs"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -412,12 +686,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WhatsApp clone with React Native and Apollo (Tutorial)",
+                "homepage": "https://medium.com/@simontucker/building-chatty-a-whatsapp-clone-with-react-native-and-apollo-part-1-setup-68a02f7e11",
                 "id": 82373208,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-08-26T21:41:04Z",
+                "open_issues": 18,
                 "owner": "srtucker22",
                 "repo": "chatty",
-                "stars": 496
+                "stars": 496,
+                "topics": [
+                  "apollo",
+                  "apollo-client",
+                  "apollo-server",
+                  "graphql",
+                  "javascript",
+                  "node",
+                  "nodejs",
+                  "react",
+                  "react-apollo",
+                  "react-native",
+                  "react-navigation",
+                  "reactjs",
+                  "sequelize",
+                  "tutorial",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -428,12 +723,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GraphQL starter application with Realtime and Offline functionality using AWS AppSync",
+                "homepage": "https://aws.amazon.com/appsync/",
                 "id": 108322306,
                 "language": "JavaScript",
+                "license": "MIT-0",
                 "last_commit": "2020-03-12T23:21:08Z",
+                "open_issues": 6,
                 "owner": "amazon-archives",
                 "repo": "aws-mobile-appsync-events-starter-react-native",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "appsync",
+                  "aws",
+                  "graphql",
+                  "javascript",
+                  "offline",
+                  "react-native",
+                  "real-time",
+                  "realtime",
+                  "syncronization"
+                ]
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             },
@@ -444,12 +754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pokedex App using and teaching Apollo with React Native (Expo)",
+                "homepage": "https://learnapollo.com",
                 "id": 72982485,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-06T09:42:34Z",
+                "open_issues": 1,
                 "owner": "learnapollo",
                 "repo": "pokedex-react-native",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
             }
@@ -460,15 +775,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:43:41.215Z",
+    "last_updated": "2026-08-29T04:39:52.041Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
+      "homepage": null,
       "id": 126986638,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2020-12-22T18:35:38Z",
+      "open_issues": 3,
       "owner": "hasura",
       "repo": "awesome-react-graphql",
-      "stars": 748
+      "stars": 748,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesomeness",
+        "graphql",
+        "react",
+        "react-native"
+      ]
     },
     "original_repository_sha": "b3a499e54127479aeffeb2b45da129575da81f8e",
     "enhanced_repository": "enhansome/enhansome-react-graphql",
