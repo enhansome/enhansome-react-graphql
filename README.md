@@ -35,7 +35,7 @@
   * [Spectrum](https://spectrum.chat/apollo)
   * [Slack](https://www.apollographql.com/slack)
 * [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
-  * [Github](https://github.com/facebook/relay) ⭐ 18,958 | 🐛 857 | 🌐 Rust | 📅 2026-08-28
+  * [Github](https://github.com/facebook/relay) ⭐ 18,958 | 🐛 857 | 🌐 Rust | 📅 2026-08-29
   * [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
   * [Discord](https://discord.gg/0ZcbPKXt5bX40xsQ)
 
@@ -91,8 +91,8 @@
 > Boilerplates and examples for a headstart in development
 
 * ReactJS
-  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 141,985 | 🐛 3,635 | 🌐 JavaScript | 📅 2026-08-29 - Boilerplate for building Next.js apps with Apollo.
-  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,104 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19
+  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 142,017 | 🐛 3,639 | 🌐 JavaScript | 📅 2026-08-30 - Boilerplate for building Next.js apps with Apollo.
+  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,109 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19
   * [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,592 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
   * [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react) ⚠️ Archived
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
@@ -109,7 +109,7 @@
   * [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate)
   * [GitHunt React](https://github.com/apollographql/GitHunt-React)
 * React Native
-  * [React, Apollo & GraphQL Starter Kits](https://github.com/graphql-boilerplates/react-fullstack-graphql/) ⭐ 1,432 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-26: Fullstack boilerplate project with a database and best practices for authentication, filtering, pagination and
+  * [React, Apollo & GraphQL Starter Kits](https://github.com/graphql-boilerplates/react-fullstack-graphql/) ⭐ 1,433 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-26: Fullstack boilerplate project with a database and best practices for authentication, filtering, pagination and
   * [WhatsApp Clone](https://github.com/srtucker22/chatty) ⭐ 496 | 🐛 18 | 🌐 JavaScript | 📅 2018-08-26
   * [GraphQL starter application with Realtime and Offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react-native) ⚠️ Archived
   * [pokedex-react-native](https://github.com/learnapollo/pokedex-react-native) ⭐ 40 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-06
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
