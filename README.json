@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8973,
+            "stars": 8974,
             "topics": [
               "complex-apps",
               "exchange",
@@ -81,7 +81,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-04T23:53:56Z",
-                "open_issues": 862,
+                "open_issues": 861,
                 "owner": "facebook",
                 "repo": "relay",
                 "stars": 18962,
@@ -114,8 +114,8 @@
                 "id": 75657790,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T08:00:12Z",
-                "open_issues": 558,
+                "last_commit": "2026-09-07T08:05:15Z",
+                "open_issues": 559,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11264,
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T02:15:25Z",
-                "open_issues": 3278,
+                "last_commit": "2026-09-07T08:38:55Z",
+                "open_issues": 3280,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 142132,
+                "stars": 142171,
                 "topics": [
                   "blog",
                   "browser",
@@ -316,10 +316,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-19T16:56:27Z",
-                "open_issues": 2375,
+                "open_issues": 2374,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32112,
+                "stars": 32113,
                 "topics": [
                   "access-control",
                   "api",
@@ -420,7 +420,7 @@
                 "open_issues": 2,
                 "owner": "fortruce",
                 "repo": "relay-skeleton",
-                "stars": 123,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:09:44.213Z",
+    "last_updated": "2026-09-07T08:41:00.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
