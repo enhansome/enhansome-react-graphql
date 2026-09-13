@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8974,
+            "stars": 8975,
             "topics": [
               "complex-apps",
               "exchange",
@@ -80,11 +80,11 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-11T19:09:49Z",
+                "last_commit": "2026-09-13T05:52:43Z",
                 "open_issues": 861,
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18961,
+                "stars": 18962,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
@@ -114,7 +114,7 @@
                 "id": 75657790,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T05:33:10Z",
+                "last_commit": "2026-09-13T08:18:30Z",
                 "open_issues": 560,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T07:19:34Z",
-                "open_issues": 3351,
+                "last_commit": "2026-09-13T00:23:37Z",
+                "open_issues": 3355,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 142248,
+                "stars": 142264,
                 "topics": [
                   "blog",
                   "browser",
@@ -319,7 +319,7 @@
                 "open_issues": 2373,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32113,
+                "stars": 32112,
                 "topics": [
                   "access-control",
                   "api",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:10:11.345Z",
+    "last_updated": "2026-09-13T08:34:45.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
