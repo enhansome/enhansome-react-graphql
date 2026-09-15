@@ -80,7 +80,7 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:11:07Z",
+                "last_commit": "2026-09-14T22:44:30Z",
                 "open_issues": 861,
                 "owner": "facebook",
                 "repo": "relay",
@@ -118,7 +118,7 @@
                 "open_issues": 557,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
-                "stars": 11263,
+                "stars": 11262,
                 "topics": [
                   "android",
                   "angular",
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:00:36Z",
-                "open_issues": 3367,
+                "last_commit": "2026-09-15T08:56:23Z",
+                "open_issues": 3361,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 142280,
+                "stars": 142312,
                 "topics": [
                   "blog",
                   "browser",
@@ -319,7 +319,7 @@
                 "open_issues": 2373,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32115,
+                "stars": 32114,
                 "topics": [
                   "access-control",
                   "api",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:18:17.050Z",
+    "last_updated": "2026-09-15T09:00:23.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
