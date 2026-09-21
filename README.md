@@ -44,7 +44,7 @@
 > Tools for better development (debugging, linting, validation etc)
 
 * Code generators:
-  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,262 | 🐛 477 | 🌐 TypeScript | 📅 2026-09-20: GraphQL code generator with flexible support for custom templates
+  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,260 | 🐛 477 | 🌐 TypeScript | 📅 2026-09-20: GraphQL code generator with flexible support for custom templates
   * [apollo-codegen](https://github.com/apollographql/apollo-codegen) ⭐ 3,041 | 🐛 364 | 🌐 TypeScript | 📅 2026-09-18: Generate API code or type annotations based on a GraphQL schema and query documents
 * Linters:
   * [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) ⭐ 1,215 | 🐛 101 | 🌐 JavaScript | 📅 2026-09-18: Check your GraphQL query strings against a schema
@@ -91,8 +91,8 @@
 > Boilerplates and examples for a headstart in development
 
 * ReactJS
-  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 142,388 | 🐛 3,460 | 🌐 JavaScript | 📅 2026-09-20 - Boilerplate for building Next.js apps with Apollo.
-  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,117 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-09-19
+  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 142,390 | 🐛 3,463 | 🌐 JavaScript | 📅 2026-09-21 - Boilerplate for building Next.js apps with Apollo.
+  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,119 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-09-21
   * [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,591 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
   * [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react) ⚠️ Archived
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
