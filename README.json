@@ -15,7 +15,7 @@
             "id": 118695306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T08:17:56Z",
+            "last_commit": "2026-09-29T07:54:52Z",
             "open_issues": 32,
             "owner": "urql-graphql",
             "repo": "urql",
@@ -80,11 +80,11 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-28T00:12:56Z",
+                "last_commit": "2026-09-29T02:59:46Z",
                 "open_issues": 864,
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18964,
+                "stars": 18965,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
@@ -114,8 +114,8 @@
                 "id": 75657790,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T13:14:57Z",
-                "open_issues": 475,
+                "last_commit": "2026-09-28T14:00:33Z",
+                "open_issues": 470,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11262,
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T10:12:56Z",
-                "open_issues": 3526,
+                "last_commit": "2026-09-29T10:03:47Z",
+                "open_issues": 3535,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 142824,
+                "stars": 142881,
                 "topics": [
                   "blog",
                   "browser",
@@ -615,7 +615,7 @@
                     "open_issues": 41,
                     "owner": "leebenson",
                     "repo": "reactql",
-                    "stars": 1810,
+                    "stars": 1811,
                     "topics": [
                       "apollo",
                       "apollo-client",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:13:39.699Z",
+    "last_updated": "2026-09-29T10:10:43.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
