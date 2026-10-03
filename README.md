@@ -91,7 +91,7 @@
 > Boilerplates and examples for a headstart in development
 
 * ReactJS
-  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,020 | 🐛 3,532 | 🌐 JavaScript | 📅 2026-10-03 - Boilerplate for building Next.js apps with Apollo.
+  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,031 | 🐛 3,531 | 🌐 JavaScript | 📅 2026-10-03 - Boilerplate for building Next.js apps with Apollo.
   * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,131 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-09-21
   * [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,591 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
   * [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react) ⚠️ Archived

@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:40:43Z",
-                "open_issues": 3532,
+                "last_commit": "2026-10-03T08:55:37Z",
+                "open_issues": 3531,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 143020,
+                "stars": 143031,
                 "topics": [
                   "blog",
                   "browser",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:02:49.495Z",
+    "last_updated": "2026-10-03T09:28:11.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
