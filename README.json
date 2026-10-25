@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8980,
+            "stars": 8981,
             "topics": [
               "complex-apps",
               "exchange",
@@ -80,11 +80,11 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-24T04:16:47Z",
+                "last_commit": "2026-10-25T01:24:49Z",
                 "open_issues": 871,
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18962,
+                "stars": 18963,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
@@ -114,11 +114,11 @@
                 "id": 75657790,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T16:49:08Z",
-                "open_issues": 475,
+                "last_commit": "2026-10-25T06:15:36Z",
+                "open_issues": 471,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
-                "stars": 11262,
+                "stars": 11263,
                 "topics": [
                   "android",
                   "angular",
@@ -215,7 +215,7 @@
                 "open_issues": 402,
                 "owner": "graphql",
                 "repo": "graphql-playground",
-                "stars": 8819,
+                "stars": 8820,
                 "topics": [
                   "graphiql",
                   "graphql",
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T07:50:07Z",
-                "open_issues": 3764,
+                "last_commit": "2026-10-25T07:03:49Z",
+                "open_issues": 3758,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 143215,
+                "stars": 143222,
                 "topics": [
                   "blog",
                   "browser",
@@ -315,11 +315,11 @@
                 "id": 137724480,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T03:05:06Z",
+                "last_commit": "2026-10-25T08:09:51Z",
                 "open_issues": 2364,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32121,
+                "stars": 32122,
                 "topics": [
                   "access-control",
                   "api",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:26:48.050Z",
+    "last_updated": "2026-10-25T08:45:59.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
