@@ -80,11 +80,11 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:36:25Z",
-                "open_issues": 861,
+                "last_commit": "2026-11-07T03:19:59Z",
+                "open_issues": 859,
                 "owner": "meta",
                 "repo": "relay",
-                "stars": 18975,
+                "stars": 18977,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
@@ -114,8 +114,8 @@
                 "id": 75657790,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T12:57:34Z",
-                "open_issues": 474,
+                "last_commit": "2026-11-07T07:32:01Z",
+                "open_issues": 467,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11265,
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T11:34:01Z",
-                "open_issues": 3836,
+                "last_commit": "2026-11-07T09:38:20Z",
+                "open_issues": 3852,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 143359,
+                "stars": 143376,
                 "topics": [
                   "blog",
                   "browser",
@@ -319,7 +319,7 @@
                 "open_issues": 2356,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32125,
+                "stars": 32124,
                 "topics": [
                   "access-control",
                   "api",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:38:59.865Z",
+    "last_updated": "2026-11-07T10:44:28.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
