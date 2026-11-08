@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-04T18:30:54Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "urql-graphql",
             "repo": "urql",
             "stars": 8985,
@@ -80,11 +80,11 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-07T03:19:59Z",
-                "open_issues": 859,
+                "last_commit": "2026-11-07T19:25:26Z",
+                "open_issues": 860,
                 "owner": "meta",
                 "repo": "relay",
-                "stars": 18977,
+                "stars": 18979,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:38:20Z",
-                "open_issues": 3852,
+                "last_commit": "2026-11-08T10:44:30Z",
+                "open_issues": 3864,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 143376,
+                "stars": 143418,
                 "topics": [
                   "blog",
                   "browser",
@@ -319,7 +319,7 @@
                 "open_issues": 2356,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32124,
+                "stars": 32125,
                 "topics": [
                   "access-control",
                   "api",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:44:28.489Z",
+    "last_updated": "2026-11-08T10:49:03.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
