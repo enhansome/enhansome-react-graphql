@@ -46,7 +46,7 @@
             "open_issues": 247,
             "owner": "awslabs",
             "repo": "aws-mobile-appsync-sdk-js",
-            "stars": 916,
+            "stars": 917,
             "topics": [
               "appsync",
               "aws",
@@ -80,8 +80,8 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-09T11:46:20Z",
-                "open_issues": 862,
+                "last_commit": "2026-11-09T22:47:44Z",
+                "open_issues": 858,
                 "owner": "meta",
                 "repo": "relay",
                 "stars": 18980,
@@ -115,10 +115,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-07T07:32:01Z",
-                "open_issues": 468,
+                "open_issues": 469,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
-                "stars": 11265,
+                "stars": 11266,
                 "topics": [
                   "android",
                   "angular",
@@ -153,7 +153,7 @@
                 "open_issues": 364,
                 "owner": "apollographql",
                 "repo": "apollo-tooling",
-                "stars": 3042,
+                "stars": 3041,
                 "topics": [
                   "code-generation",
                   "flow",
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T11:58:33Z",
-                "open_issues": 3905,
+                "last_commit": "2026-11-10T11:17:35Z",
+                "open_issues": 3907,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 143433,
+                "stars": 143447,
                 "topics": [
                   "blog",
                   "browser",
@@ -315,8 +315,8 @@
                 "id": 137724480,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T10:13:07Z",
-                "open_issues": 2352,
+                "last_commit": "2026-11-10T11:16:45Z",
+                "open_issues": 2347,
                 "owner": "hasura",
                 "repo": "graphql-engine",
                 "stars": 32126,
@@ -356,7 +356,7 @@
                 "open_issues": 11,
                 "owner": "the-road-to-graphql",
                 "repo": "react-graphql-github-apollo",
-                "stars": 1594,
+                "stars": 1593,
                 "topics": [
                   "apollo",
                   "apollo-client",
@@ -389,7 +389,7 @@
                 "open_issues": 14,
                 "owner": "amazon-archives",
                 "repo": "aws-mobile-appsync-events-starter-react",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "appsync",
                   "aws",
@@ -615,7 +615,7 @@
                     "open_issues": 41,
                     "owner": "leebenson",
                     "repo": "reactql",
-                    "stars": 1811,
+                    "stars": 1810,
                     "topics": [
                       "apollo",
                       "apollo-client",
@@ -695,7 +695,7 @@
                 "open_issues": 18,
                 "owner": "srtucker22",
                 "repo": "chatty",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "apollo",
                   "apollo-client",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:14:40.820Z",
+    "last_updated": "2026-11-10T11:54:06.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
