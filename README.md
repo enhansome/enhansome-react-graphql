@@ -35,7 +35,7 @@
   * [Spectrum](https://spectrum.chat/apollo)
   * [Slack](https://www.apollographql.com/slack)
 * [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
-  * [Github](https://github.com/facebook/relay) ⭐ 18,982 | 🐛 844 | 🌐 Rust | 📅 2026-11-13
+  * [Github](https://github.com/facebook/relay) ⭐ 18,981 | 🐛 846 | 🌐 Rust | 📅 2026-11-14
   * [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
   * [Discord](https://discord.gg/0ZcbPKXt5bX40xsQ)
 
@@ -44,10 +44,10 @@
 > Tools for better development (debugging, linting, validation etc)
 
 * Code generators:
-  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,266 | 🐛 466 | 🌐 TypeScript | 📅 2026-11-12: GraphQL code generator with flexible support for custom templates
+  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,266 | 🐛 467 | 🌐 TypeScript | 📅 2026-11-12: GraphQL code generator with flexible support for custom templates
   * [apollo-codegen](https://github.com/apollographql/apollo-codegen) ⭐ 3,040 | 🐛 364 | 🌐 TypeScript | 📅 2026-11-11: Generate API code or type annotations based on a GraphQL schema and query documents
 * Linters:
-  * [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) ⭐ 1,216 | 🐛 102 | 🌐 JavaScript | 📅 2026-11-11: Check your GraphQL query strings against a schema
+  * [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) ⭐ 1,216 | 🐛 102 | 🌐 JavaScript | 📅 2026-11-14: Check your GraphQL query strings against a schema
 * ReactJS Debugging Tools
   * [Apollo Client Developer Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm): Chrome extension for Apollo Client developer tools
   * [Relay DevTools](https://chrome.google.com/webstore/detail/relay-devtools/oppikflppfjfdpjimpdadhelffjpciba): A Chrome Extension that creates a Relay tab in the developer tools interface for debugging apps in Chrome
@@ -91,8 +91,8 @@
 > Boilerplates and examples for a headstart in development
 
 * ReactJS
-  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,505 | 🐛 3,960 | 🌐 JavaScript | 📅 2026-11-13 - Boilerplate for building Next.js apps with Apollo.
-  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,125 | 🐛 2,348 | 🌐 TypeScript | 📅 2026-11-12
+  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,510 | 🐛 3,968 | 🌐 JavaScript | 📅 2026-11-14 - Boilerplate for building Next.js apps with Apollo.
+  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,122 | 🐛 2,348 | 🌐 TypeScript | 📅 2026-11-12
   * [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,593 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
   * [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react) ⚠️ Archived
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

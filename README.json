@@ -80,11 +80,11 @@
                 "id": 40508605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-13T00:43:47Z",
-                "open_issues": 844,
+                "last_commit": "2026-11-14T00:55:07Z",
+                "open_issues": 846,
                 "owner": "meta",
                 "repo": "relay",
-                "stars": 18982,
+                "stars": 18981,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:43:41.215Z"
@@ -115,7 +115,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-12T14:40:33Z",
-                "open_issues": 466,
+                "open_issues": 467,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11266,
@@ -183,7 +183,7 @@
                 "id": 56805180,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-11T22:41:14Z",
+                "last_commit": "2026-11-14T04:48:44Z",
                 "open_issues": 102,
                 "owner": "apollographql",
                 "repo": "eslint-plugin-graphql",
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T11:35:21Z",
-                "open_issues": 3960,
+                "last_commit": "2026-11-14T09:02:33Z",
+                "open_issues": 3968,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 143505,
+                "stars": 143510,
                 "topics": [
                   "blog",
                   "browser",
@@ -319,7 +319,7 @@
                 "open_issues": 2348,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32125,
+                "stars": 32122,
                 "topics": [
                   "access-control",
                   "api",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:39:19.568Z",
+    "last_updated": "2026-11-14T11:00:57.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
