@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8984,
+            "stars": 8983,
             "topics": [
               "complex-apps",
               "exchange",
@@ -43,7 +43,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-03-30T22:38:53Z",
-            "open_issues": 247,
+            "open_issues": 246,
             "owner": "awslabs",
             "repo": "aws-mobile-appsync-sdk-js",
             "stars": 917,
@@ -114,7 +114,7 @@
                 "id": 75657790,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T14:40:33Z",
+                "last_commit": "2026-11-16T08:37:49Z",
                 "open_issues": 468,
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
@@ -279,11 +279,11 @@
                 "id": 70107786,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T10:51:54Z",
-                "open_issues": 3986,
+                "last_commit": "2026-11-16T11:57:53Z",
+                "open_issues": 4004,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 143526,
+                "stars": 143586,
                 "topics": [
                   "blog",
                   "browser",
@@ -319,7 +319,7 @@
                 "open_issues": 2342,
                 "owner": "hasura",
                 "repo": "graphql-engine",
-                "stars": 32122,
+                "stars": 32123,
                 "topics": [
                   "access-control",
                   "api",
@@ -662,7 +662,7 @@
                 "id": 58235421,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-30T17:38:23Z",
+                "last_commit": "2026-11-16T00:16:51Z",
                 "open_issues": 52,
                 "owner": "graphql-boilerplates",
                 "repo": "react-fullstack-graphql",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T11:35:02.000Z",
+    "last_updated": "2026-11-16T12:09:10.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome",
