@@ -26,7 +26,7 @@
 
 > React and React Native clients for GraphQL
 
-* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,987 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-20: Universal React Query Library
+* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,986 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-20: Universal React Query Library
 * [AppSync](https://github.com/awslabs/aws-mobile-appsync-sdk-js) ⭐ 915 | 🐛 246 | 🌐 TypeScript | 📅 2026-03-30: JavaScript GraphQL library for Offline, Sync, Sigv4. includes support for React Native
   * [Docs](https://docs.aws.amazon.com/appsync/latest/devguide/welcome.html)
 * [Apollo](https://www.apollographql.com/): Apollo Client is a community-driven GraphQL client for React, JavaScript, and native platforms
@@ -35,7 +35,7 @@
   * [Spectrum](https://spectrum.chat/apollo)
   * [Slack](https://www.apollographql.com/slack)
 * [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
-  * [Github](https://github.com/facebook/relay) ⭐ 18,984 | 🐛 852 | 🌐 Rust | 📅 2026-11-21
+  * [Github](https://github.com/facebook/relay) ⭐ 18,984 | 🐛 852 | 🌐 Rust | 📅 2026-11-22
   * [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
   * [Discord](https://discord.gg/0ZcbPKXt5bX40xsQ)
 
@@ -91,8 +91,8 @@
 > Boilerplates and examples for a headstart in development
 
 * ReactJS
-  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,605 | 🐛 4,110 | 🌐 JavaScript | 📅 2026-11-22 - Boilerplate for building Next.js apps with Apollo.
-  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,128 | 🐛 2,357 | 🌐 TypeScript | 📅 2026-11-19
+  * [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) ⭐ 143,607 | 🐛 4,118 | 🌐 JavaScript | 📅 2026-11-23 - Boilerplate for building Next.js apps with Apollo.
+  * [Next.js Serverless with Apollo](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-8-serverless/with-apollo) ⭐ 32,126 | 🐛 2,353 | 🌐 TypeScript | 📅 2026-11-19
   * [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo) ⭐ 1,592 | 🐛 11 | 🌐 JavaScript | 📅 2020-06-12
   * [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react) ⚠️ Archived
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
@@ -175,4 +175,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
